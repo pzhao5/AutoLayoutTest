@@ -18,3 +18,5 @@ Best Practice:
 
 Test the view separately from your main App. If you test your view along with the main App. It is very hard to figure out the layout issue. The best way to do so is to write a good unit test on it.
 Test on long long string if you care about international market. Provide a set of test string and see how the view handle such string (which string should be truncated or omit).
+
+![alt tag](https://github.com/pzhao5/AutoLayoutTest/blob/master/screenshot.png)
